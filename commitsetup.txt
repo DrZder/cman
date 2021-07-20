@@ -1,0 +1,7 @@
+git config --global user.email "example@email.com"
+git config --global user.name "examplename"
+git add "file"
+git commit -m "commit comment"
+git branch -M main
+git remote add origin https://github.com/DrZder/cman.git (only first time)
+git push -u origin main
