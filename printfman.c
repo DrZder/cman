@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <direct.h>
 
 int main(){
 //main printout pretty intuitive lol;
@@ -26,6 +25,5 @@ printf(" |  character  |    all      |      %%c       |\n");
 printf(" |-------------|-------------|---------------|\n");
 printf(" |   string    |    all      |      %%s       |\n");
 printf(" |_____________|_____________|_______________|");
-sleep(1000);
 return 0;
 }
